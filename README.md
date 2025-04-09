@@ -96,3 +96,10 @@ This will start the Flask server locally at http://127.0.0.1:5000/.
 curl -X POST http://127.0.0.1:5000/predict_home_price \
      -H "Content-Type: application/x-www-form-urlencoded" \
      -d "total_sqft=1200&location=Indira Nagar&bhk=2&bath=2"
+
+```
+
+## Reference
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg
+
+https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
